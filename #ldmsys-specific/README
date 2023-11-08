@@ -1,0 +1,8 @@
+ Note!
+
+ The quilt patch "kernel-reboot-explicitly-notify-if-halt-occurred-
+  instead-of-power-off.patch" and "kernel-reboot-explicitly-notify-
+  if-halt-occurred-instead-of-power-off-fix.patch" is against v6.6
+  and it may requires backporting. (since the kernel is v4.14 now)
+
+  - Dongmin
